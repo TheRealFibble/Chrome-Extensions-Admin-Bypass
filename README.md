@@ -9,7 +9,7 @@ FOR WINDOWS
 5. You're Done
 
 FOR MAC
-1. Download the extension from the SOURCE folder.
+1. Download the extension from the FOR MAC folder.
 2. Unzip the file if needed.
 3. Open the extensions menu in Google and turn on dev mode in the top right-hand corner.
 4. Click on Load Unpacked and select the unzipped folder of the wanted extension.
